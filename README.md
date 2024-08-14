@@ -1,2 +1,2 @@
-# Kics-Assignments
-Submit All Assignments for KICS PDC Course 
+# Problem Solving -Assignments
+Submit All Assignments for Javascript Problem Solving
